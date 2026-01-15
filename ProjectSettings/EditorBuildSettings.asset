@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main VR Scene.unity
+    guid: d25d169b5da412845939ff12e349760a
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 63edfb7f2cef1db43a0c82613718cc55, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e01bf4b9f71a3024fa8da352aa476eb0, type: 2}
+  m_UseUCBPForAssetBundles: 0
